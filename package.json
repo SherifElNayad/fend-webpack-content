@@ -1,4 +1,5 @@
 {
+  "build":"webpack",
   "name": "example-project",
   "version": "1.0.0",
   "main": "index.js",
@@ -11,6 +12,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0"
   }
 }
